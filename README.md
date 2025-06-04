@@ -28,5 +28,5 @@ Si tienes dudas, sugerencias o necesitas soporte:
 
 ---
 
-##🧠 Créditos
+## 🧠 Créditos
 Este repositorio está diseñado para comunidades que desean ofrecer una mejor experiencia de descarga en servidores CS 1.6.
