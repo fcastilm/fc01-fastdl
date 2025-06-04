@@ -42,3 +42,6 @@ Este repositorio está diseñado para comunidades que desean ofrecer una mejor e
 
 ## 🦜 Transportes LORO
 Un agradecimiento para transportes loro y su gerente general Frank John Osco Balta Quiros Suarez
+
+<!--![Imagen del proyecto](loro.jpg) -->
+<img src="loro.jpg" width="30%" height="auto" />
