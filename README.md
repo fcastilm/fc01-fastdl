@@ -34,14 +34,13 @@ Si tienes dudas, sugerencias o necesitas soporte:
 <!--
 ---
 
-## 🦜 OSCO CHUPALA
-## 🧠 Créditos
-Este repositorio está diseñado para comunidades que desean ofrecer una mejor experiencia de descarga en servidores CS 1.6.
--->
----
-
 ## 🦜 Transportes LORO
 Un agradecimiento para transportes loro y su gerente general Frank John Osco Balta Quiros Suarez
 
-<!--![Imagen del proyecto](loro.jpg) -->
+<!--![Imagen del proyecto](loro.jpg) 
 <img src="loro.jpg" width="30%" height="auto" />
+-->
+---
+
+## 🧠 Créditos
+Este repositorio está diseñado para comunidades que desean ofrecer una mejor experiencia de descarga en servidores CS 1.6.
