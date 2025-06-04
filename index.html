@@ -4,34 +4,61 @@
   <meta charset="UTF-8">
   <title>FastDL CS 1.6 - Bienvenido</title>
   <style>
-    body {
-      background-color: #1e1e1e;
-      color: #e0e0e0;
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      text-align: center;
-      padding: 60px;
+      color: #ffffff;
+      background: url('https://wallpapers.com/images/high/counterstrike-h1e0t7ujbfig3gie.webp') no-repeat center center fixed;
+      background-size: cover;
+      text-shadow: 1px 1px 3px #000000;
     }
+
+    .content {
+      padding: 60px 30px 30px 30px;
+      text-align: center;
+    }
+
     h1 {
       color: #00ff99;
       font-size: 3rem;
+      margin-bottom: 20px;
     }
+
     p {
       font-size: 1.2rem;
+      margin: 10px auto;
+      max-width: 800px;
     }
+
     a {
       color: #00ccff;
       text-decoration: none;
+      font-weight: bold;
     }
+
     a:hover {
       text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2rem;
+      }
+
+      p {
+        font-size: 1rem;
+      }
     }
   </style>
 </head>
 <body>
-  <h1>Bienvenido al FastDL de CHorrillos #FFA</h1>
-  <p>Este es el repositorio de descarga rápida (Fast Download) para nuestro servidor de Counter-Strike 1.6.</p>
-  <p>Los archivos personalizados como <strong>mapas, modelos y sonidos</strong> se descargan automáticamente desde aquí cuando te conectas al servidor.</p>
-  <p>Visita nuestro servidor o contáctanos si necesitas más información.</p>
-  <p><a href="https://github.com/fcastilm/fc01-fastdl" target="_blank">Ver archivos</a></p>
+  <div class="content">
+    <h1>Bienvenido al FastDL de CHorrillos #FFA</h1>
+    <p>Este es el repositorio de descarga rápida para nuestro servidor de Counter-Strike 1.6.</p>
+    <p>Los archivos personalizados como <strong>mapas, modelos y sonidos</strong> se descargan automáticamente desde aquí cuando te conectas al servidor.</p>
+    <p><a href="https://github.com/fcastilm/fc01-fastdl" target="_blank">Ver archivos</a></p>
+  </div>
 </body>
 </html>
