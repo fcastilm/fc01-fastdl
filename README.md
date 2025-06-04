@@ -1,7 +1,7 @@
 # 🎯 FastDL para la comunidad de CHorrillos Servers [FFA-DM-MIX]
  
-![Última actualización](https://img.shields.io/github/last-commit/tu_usuario/cs16-fastdl?label=Última%20actualización)
-![Tamaño del repositorio](https://img.shields.io/github/repo-size/tu_usuario/cs16-fastdl?label=Tamaño%20del%20repositorio)
+![Última actualización](https://img.shields.io/github/last-commit/fcastilm/fc01-fastdl?label=Última%20actualización)
+![Tamaño del repositorio](https://img.shields.io/github/repo-size/fcastilm/fc01-fastdl?label=Tamaño%20del%20repositorio)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Activo-brightgreen)
  
 Este repositorio contiene los archivos necesarios para implementar un servidor **Fast Download (FastDL)** para **Counter-Strike 1.6**, facilitando la descarga rápida de mapas, modelos, sonidos y otros recursos personalizados al conectarse al servidor.
