@@ -1,4 +1,4 @@
-🎯 FastDL para Counter-Strike 1.6
+# 🎯 FastDL para Counter-Strike 1.6
  
 ![Última actualización](https://img.shields.io/github/last-commit/tu_usuario/cs16-fastdl?label=Última%20actualización)
 ![Tamaño del repositorio](https://img.shields.io/github/repo-size/tu_usuario/cs16-fastdl?label=Tamaño%20del%20repositorio)
@@ -17,3 +17,16 @@ FastDL permite a los jugadores descargar recursos a través de **HTTP**, en luga
 ## 📂 Estructura del repositorio
  
 Organiza los archivos igual que en tu servidor HLDS:
+
+---
+
+## 📞 Contacto
+Si tienes dudas, sugerencias o necesitas soporte:
+💬 Discord: tuserver.com/cs16
+✉️ Correo: tuemail@ejemplo.com
+📁 Abre un Issue: github.com/tu_usuario/cs16-fastdl/issues
+
+---
+
+##🧠 Créditos
+Este repositorio está diseñado para comunidades que desean ofrecer una mejor experiencia de descarga en servidores CS 1.6.
