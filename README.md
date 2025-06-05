@@ -31,7 +31,7 @@ Organiza los archivos igual que en tu servidor HLDS:
 Si tienes dudas, sugerencias o necesitas soporte:
 
 
-💬 Discord: tuserver.com/cs16
+💬 Discord: [discord.gg/ucMS3JpJ](https://discord.gg/ucMS3JpJ)
 
 
 ✉️ Correo: tuemail@ejemplo.com
