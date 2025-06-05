@@ -1,0 +1,14 @@
+// overview description file for rush.bsp
+
+global
+{
+        ZOOM    3.84
+        ORIGIN  384.00     -640.00    -16.00
+        ROTATED 1
+}
+
+layer 
+{
+       IMAGE "overviews/rush.bmp"
+       HEIGHT -225
+}

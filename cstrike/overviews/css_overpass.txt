@@ -1,0 +1,15 @@
+// map "css_overpass" overview hckr
+// overview description file for css_overpass.bsp
+
+global 
+{
+	ZOOM	1.09
+	ORIGIN	-144 	-668	-76
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/css_overpass.bmp"
+	HEIGHT	-857
+}

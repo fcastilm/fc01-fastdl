@@ -1,0 +1,14 @@
+// overview description file for de_vertigo_go.bsp
+
+global 
+{
+        ZOOM	1.96
+	ORIGIN	392	-736	474
+	ROTATED	1
+}
+
+layer 
+{
+        IMAGE	"overviews/de_vertigo_go.bmp"
+	HEIGHT	-1253
+}

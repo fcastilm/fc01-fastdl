@@ -1,0 +1,14 @@
+// overview description file for de_egypt.bsp
+
+global 
+{
+        ZOOM	1.43
+	ORIGIN	-816	-768	8
+	ROTATED	0
+}
+
+layer 
+{
+        IMAGE	"overviews/de_egypt.bmp"
+	HEIGHT	-273
+}

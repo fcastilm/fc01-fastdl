@@ -1,0 +1,14 @@
+Mini Dust Pro
+
+The classic map of cS_mApPeR for Counter-Strike 1.6 remaked for CS: Source by Strial.
+It's have two bombsides and a capacity for 20 players, ideal for zombies, deathmatch, gungame or normal playing.
+Specials thanks to the creator of the original map, cS_mApPeR and for my friends kEEGAN and cAMELLO; :3 in the testing process.
+I hope you enjoy my first map.
+
+----------------------------------------------------------------------------
+
+El clasico mapa de cS_mApPeR para Counter-Strike 1.6 recreado para CS: Source por Strial.
+Tiene dos sitios de bombardeo y una capacidad para 20 jugadores, ideal para zombies, deathmatch, gungame o juego normal.
+Muchas gracias al creador del mapa original, cS_mApPeR y para mis amigos kEEGAN y cAMELLO; :3 en el proceso de pruebas.
+Espero que disfrutes mi primer mapa.
+-----------------------------7db3a92011017a--

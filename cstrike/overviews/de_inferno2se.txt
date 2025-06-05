@@ -1,0 +1,14 @@
+// overview description file for de_inferno2se.bsp
+
+global 
+{
+        ZOOM	1.66
+	ORIGIN	-572	-72	608
+	ROTATED	1
+}
+
+layer 
+{
+        IMAGE	"overviews/de_inferno2se.bmp"
+	HEIGHT	303
+}

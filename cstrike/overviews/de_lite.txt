@@ -1,0 +1,14 @@
+// overview description file for de_lite.bsp
+
+global 
+{
+	ZOOM	1.32
+	ORIGIN	639.22 	428.72	    -209
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_lite.bmp"
+	HEIGHT	-209
+}

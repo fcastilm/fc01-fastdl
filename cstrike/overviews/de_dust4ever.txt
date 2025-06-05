@@ -1,0 +1,14 @@
+// overview description file for de_dust4ever.bsp
+
+global 
+{
+        ZOOM	1.23
+	ORIGIN	-1052	280	168
+	ROTATED	0
+}
+
+layer 
+{
+        IMAGE	"overviews/de_dust4ever.bmp"
+	HEIGHT	-177
+}

@@ -1,0 +1,14 @@
+// overview description file for de_kabul_32.bsp
+
+global 
+{
+        ZOOM	1.66
+	ORIGIN	752	-672	 272
+	ROTATED	1
+}
+
+layer 
+{
+        IMAGE	"overviews/de_kabul_32.bmp"
+	HEIGHT	-1
+}

@@ -1,0 +1,22 @@
+Dust - Global Offensive - Bomb/Defuse
+Original by DaveJ (dv@btinternet.com)
+textures by Macman (MacManInfi@aol.com)
+
+
+Original Dust with the gameplay improvements
+of Counter-Strike Global Offensive.
+
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission. 
+
+(Press FIRE to continue)

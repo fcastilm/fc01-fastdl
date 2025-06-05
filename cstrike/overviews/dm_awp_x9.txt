@@ -1,0 +1,14 @@
+// overview description file for dm_awp_x9.bsp by andu.tei
+
+global 
+{
+	ZOOM	2.59
+	ORIGIN	0	0	48
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/dm_awp_x9.bmp"
+	HEIGHT	-128
+}

@@ -1,0 +1,3 @@
+vertigo_go
+
+(Press FIRE to continue)

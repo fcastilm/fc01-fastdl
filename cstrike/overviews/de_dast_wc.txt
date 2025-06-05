@@ -1,0 +1,14 @@
+// overview description file for de_dast_wc.bsp
+
+global 
+{
+        ZOOM	1.41
+	ORIGIN	1408	1024	 128
+	ROTATED	0
+}
+
+layer 
+{
+        IMAGE	"overviews/de_dast_wc.bmp"
+	HEIGHT	-257
+}

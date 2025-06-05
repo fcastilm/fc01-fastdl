@@ -1,0 +1,14 @@
+// overview description file for de_ancient.bsp
+
+global 
+{
+	ZOOM	1.27
+	ORIGIN	-752 	686	-353
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_ancient.bmp"
+	HEIGHT	-353
+}
