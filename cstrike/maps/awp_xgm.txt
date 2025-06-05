@@ -1,0 +1,12 @@
+awp_xgm - Sniper War
+Map by Tatu Eugen (www.xgm.ro)
+
+Weapons: AWP, Pistols, HeGrenades, Kevlars
+Terrorist: Kill CT
+Counter-Terrorist: Kill T
+
+Other Notes: Round does not end
+until one team has been eliminated!
+Have fun!
+
+*** www.xgm.ro ***

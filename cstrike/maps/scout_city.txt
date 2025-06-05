@@ -1,0 +1,16 @@
+Scout City
+scout_city.bsp
+by SuperJer
+
+SuperJer.com
+
+A very slight modification of awp_city2.bsp.
+Now everyone gets a scout instead of an awp.
+
+Goal: (for those who need one)
+Kill the dirty rotten other team, those incorrigible maggots!
+
+As always, have fun!
+
+
+

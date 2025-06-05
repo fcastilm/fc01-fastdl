@@ -1,0 +1,12 @@
+maps\de_train_2x2_se_v12.bsp
+maps\de_train_2x2_se_v12.txt
+maps\de_train_2x2_se_v12.res
+sound\ambience\burning3.wav
+gfx\env\skybox20_bk.tga
+gfx\env\skybox20_dn.tga
+gfx\env\skybox20_ft.tga
+gfx\env\skybox20_lf.tga
+gfx\env\skybox20_rt.tga
+gfx\env\skybox20_up.tga
+sprites\de_christmas_on_a_newplanet\qfire.spr
+sprites\trempler\glowsmoke01.spr

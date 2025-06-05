@@ -1,0 +1,16 @@
+fy_or_aim
+Take weapon and grenade on the floor and killing your enemies!!!
+
+map created by FoboS
+14/06/2010
+
+Special thanks for cs-mapping.com.ua
+
+There are my other maps:
+aim_ak_colt_snow
+aim_akacolt_2010
+aim_return_to_dust
+aim_[01]
+awp_aztec_v1
+de_lab
+cs_insanity (unrelease)

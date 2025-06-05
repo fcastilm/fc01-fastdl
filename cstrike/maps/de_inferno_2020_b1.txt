@@ -1,0 +1,32 @@
+NOTE: CURRENTLY IN BETA STAGE
+
+Terrorists have discovered two weapon cache.
+They plan to destroy it.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the weapon cache.
+
+Terrorists: Destroy the weapon cache.
+
+Other Notes: There is only two bomb sites in this 
+mission.
+
+Do not modify or redistribute this map without my permission.
+
+-- Update --
+----------------------------
+ B0 - September 23, 2019
+----------------------------
+Beta Release
+
+
+----------------------------
+ A0 - September 19, 2019
+----------------------------
+Only feature A-site, and no proper spawn base
+
+- Alpha Release
+
+Install - Drag and Drop both maps folder and overview folder inside your cstrike
+
+Contact - al-proto1995@hotmail.com

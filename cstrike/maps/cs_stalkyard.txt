@@ -1,0 +1,20 @@
+Stalkyard - Hostage Rescue
+
+Original map by Valve
+Edited for Counter-Strike by Freimaurer
+
+Counter-Terrorist-Forces are trying to find the Ark of the Covenant
+which is somewhere hidden in a huge storage room at Area 51.
+But only a few specialist scienstists are able to recover it.
+Too bad, these scientists got kidnapped by an evil group of Terrorists.
+
+Counter-Terrorists:
+Rescue the scientists to be able to find the holy Ark of the Covenant.
+Beware of mounted machine guns the Terrorists are going to use.
+
+Terrorists:
+Defend the scienstists at all cost.
+The Ark of the Covenant should never be opened again!
+
+Other Notes: 
+There are 2 scienstists hidden somewhere.

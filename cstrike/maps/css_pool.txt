@@ -1,0 +1,22 @@
+CSS_POOL (Fight Yard)
+by Tatu Eugen - www.temaps.com
+
+This map is a remake after pool map.
+Small fight yard themed map.
+Includes weapons on the ground, 
+grenades and armors. 
+This map have one bombsite inside the pool.
+
+Bug report: contact@temaps.com
+Remake after original map with new textures
+and some new things.
+
+- 32 Players
+- Hegrenades inside pool
+- Armor inside small pool
+
+Original Author:
+Castor Troy
+
+Textures by
+Valve

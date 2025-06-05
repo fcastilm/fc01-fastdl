@@ -1,0 +1,9 @@
+How to install the skin?
+
+Steam install:
+Computer -> (C:) -> Program files -> Steam -> steamapps -> common -> Half-Life -> cstrike -> models
+Grab the skin to folder
+
+Crack install:
+Computer -> (C:) -> Program files -> (the cracked cs 1.6 folder) -> cstrike -> models
+Grab the skin to folder

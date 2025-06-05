@@ -1,0 +1,26 @@
+NOTE: CURRENTLY IN ALPHA STAGE
+
+Terrorists have discovered a weapon cache.
+They plan to destroy it.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the weapon cache.
+
+Terrorists: Destroy the weapon cache.
+
+Other Notes: There is only one bomb site in this 
+mission.
+
+Do not modify or redistribute this map without my permission.
+
+-- Update --
+----------------------------
+ A0 - September 19, 2019
+----------------------------
+Only feature A-site, and no proper spawn base
+
+- Alpha Release
+
+Install - Drag and Drop de_inferno_2020_a0.bsp/.txt inside your cstrike/maps
+
+Contact - al-proto1995@hotmail.com

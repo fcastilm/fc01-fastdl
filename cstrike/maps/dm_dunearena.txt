@@ -1,0 +1,7 @@
+dm_dunearena - Deathmatch
+by Aiedail aka. Jr3k1/Junior3001
+Map created: 26/09/2007 
+
+Objective: Kill Enemy On The Arena
+
+Try Avoid crouch-jumps it might be bit bugged to do them. 

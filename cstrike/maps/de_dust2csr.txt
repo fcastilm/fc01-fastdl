@@ -1,0 +1,24 @@
+Counter-Strike Romania :: CSR :: www.csromania.com
+
+---
+
+de_csr_dust2 - Bomb/Defuse
+
+Map created by Tatu Eugen (office@csromania.com)
+
+----
+
+Counter-Terrorists: Prevent the Terrorists
+plant bomb in A or B.
+
+Terrorists: Destroy the explosive crates in A or B.
+
+Other Notes: There are 2 bomb sites in this 
+mission. A & B.
+
+----
+
+Powered by Counter-Strike Romania.
+All rights reserved by author.
+
+www.csromania.com

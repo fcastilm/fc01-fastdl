@@ -1,0 +1,47 @@
+Terrorists have discovered two weapon cache.
+They plan to destroy it.
+
+Counter-Terrorists: Prevent the terrorists
+from destroying the weapon cache.
+
+Terrorists: Destroy the weapon cache.
+
+Other Notes: There is only two bomb sites in this 
+mission.
+
+Do not modify or redistribute this map without my permission.
+
+Contact - al-proto1995@hotmail.com
+
+-- Update --
+----------------------------
+ Version 1.0a - October 28, 2019
+----------------------------
+- Level balcony floor interior with stairs, but balcony remains the same
+- Clip the sky, thus, no longer able to climb thet roofs
+- Raised existing clips to close the clip
+- Competitive Certified (OSC style)
+
+----------------------------
+ Version 1.0 - September 30, 2019
+----------------------------
+Official Release
+
+----------------------------
+ B1 - September 26, 2019
+----------------------------
+Beta Release
+
+----------------------------
+ B0 - September 23, 2019
+----------------------------
+Beta Release
+
+----------------------------
+ A0 - September 19, 2019
+----------------------------
+Only feature A-site, and no proper spawn base
+
+- Alpha Release
+
+

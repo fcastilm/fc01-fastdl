@@ -1,0 +1,12 @@
+=============
+TS_HAMMERTIME
+=============
+created by: WillSchnevel & Cayle George
+ported to CS 1.6 by: CAT & WAR3DM.com
+
+
+Textures by:
+-----------
+Shaderlab - www.shaderlab.com
+blazeer
+Remedy Entertainment

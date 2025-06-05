@@ -1,0 +1,3 @@
+overviews/de_aztec_revision.bmp
+overviews/de_aztec_revision.txt
+sound/ambience/crickets.wav

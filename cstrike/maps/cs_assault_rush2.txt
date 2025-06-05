@@ -1,0 +1,29 @@
+Map remake by Kaner elkaner@hotmail.com in April 2016
+------------------------------------------------------
+
+# New Features:
+- Fixed spawn bugs.
+- The game has been balanced in favour of CT.
+- Improvement of r_speeds.
+- Increased the quality of some textures.
+- Improvement of shadows.
+- Added three new ways to enter the warehouse.
+- Added one new way to enter the hostages room.
+- Added two new hidden spots.
+
+# General Features:
+- name: Assault Rush 2
+- mod: counter-strike 1.6
+- modification of: cs_assault
+- type: assaulted map (cs)
+- size playing: medium-large
+- players: 32
+- hostages: 3
+- ways to hostages' room: 4
+- average round time: 2 min or less
+- weapons on the level: 3
+- secret rooms: 3
+- original version made: dec 2007
+- textures used: max payne, half-life and counter-strike 1.6
+- wad textures: included in bsp file
+- bsp file size: 2,748 KB
