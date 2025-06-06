@@ -15,17 +15,6 @@
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/fcastilm/fc01-fastdl.svg)](http://isitmaintained.com/project/fcastilm/fc01-fastdl "Percentage of issues still open")
  -->
 Este repositorio contiene los archivos necesarios para implementar un servidor **Fast Download (FastDL)** para **Counter-Strike 1.6**, facilitando la descarga rápida de mapas, modelos, sonidos y otros recursos personalizados al conectarse al servidor.
-
-#### Estructura
-<pre>
-fc01-fastdl/
-├── cstrike/
-│   ├── maps/
-│   ├── sound/
-│   ├── models/
-│   └── gfx/
-└── index.html
-</pre>
  
 ---
  
@@ -37,21 +26,29 @@ FastDL permite a los jugadores descargar recursos a través de **HTTP**, en luga
  
 ## 📂 Estructura del repositorio
  
-Organiza los archivos igual que en tu servidor HLDS:
+<pre>
+fc01-fastdl/
+├── cstrike/
+│   ├── maps/
+│   ├── sound/
+│   ├── models/
+│   └── gfx/
+└── index.html
+</pre>
 
 ---
 
 ## 📞 Contacto
 Si tienes dudas, sugerencias o necesitas soporte:
 
-
 💬 Discord: [discord.gg/ucMS3JpJ](https://discord.gg/ucMS3JpJ)
-
 
 ✉️ Correo: tuemail@ejemplo.com
 
-
 📁 Abre un Issue: [github.com/fcastilm/fc01-fastdl/issues](https://github.com/fcastilm/fc01-fastdl/issues)
+
+📁 ¿Dudas o sugerencias? Puedes abrir un [Issue](https://github.com/fcastilm/fc01-fastdl/issues)
+
 <!--
 ---
 
