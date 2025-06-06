@@ -4,6 +4,9 @@
 ![Tamaño del repositorio](https://img.shields.io/github/repo-size/fcastilm/fc01-fastdl?label=Tamaño%20del%20repositorio)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Activo-brightgreen)
 [![Issues abiertos](http://isitmaintained.com/badge/open/fcastilm/fc01-fastdl.svg)](http://isitmaintained.com/project/fcastilm/fc01-fastdl?label=Issues%20abiertos)
+![Contenido](https://img.shields.io/badge/Contenido-Maps%2C%20Models%2C%20Sounds-blue)
+![HLDS](https://img.shields.io/badge/Optimizado%20para-REHLDS-yellow)
+
 
 <!--
 [![GitHub release (by tag)](https://img.shields.io/github/downloads/rehlds/ReHLDS/latest/total)](https://github.com/rehlds/ReHLDS/releases/latest)
@@ -12,6 +15,15 @@
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/fcastilm/fc01-fastdl.svg)](http://isitmaintained.com/project/fcastilm/fc01-fastdl "Percentage of issues still open")
  -->
 Este repositorio contiene los archivos necesarios para implementar un servidor **Fast Download (FastDL)** para **Counter-Strike 1.6**, facilitando la descarga rápida de mapas, modelos, sonidos y otros recursos personalizados al conectarse al servidor.
+
+fc01-fastdl/
+├── cstrike/
+│   ├── maps/
+│   ├── sound/
+│   ├── models/
+│   └── gfx/
+└── index.html
+
  
 ---
  
