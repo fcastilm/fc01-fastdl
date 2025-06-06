@@ -16,6 +16,8 @@
  -->
 Este repositorio contiene los archivos necesarios para implementar un servidor **Fast Download (FastDL)** para **Counter-Strike 1.6**, facilitando la descarga rápida de mapas, modelos, sonidos y otros recursos personalizados al conectarse al servidor.
 
+#### Estructura
+<pre>
 fc01-fastdl/
 ├── cstrike/
 │   ├── maps/
@@ -23,7 +25,7 @@ fc01-fastdl/
 │   ├── models/
 │   └── gfx/
 └── index.html
-
+</pre>
  
 ---
  
